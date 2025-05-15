@@ -1,0 +1,124 @@
+﻿  Source.cpp
+D:\DataProject\DataProject\game.h(315,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(322,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(325,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(325,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(637,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(637,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(640,11): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(692,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(699,16): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(734,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(739,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(739,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(743,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(743,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(769,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(769,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(770,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(770,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(808,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(808,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(809,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(809,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(846,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(889,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(889,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(890,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(890,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(919,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(919,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(920,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(920,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(944,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(944,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(945,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(945,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(968,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(968,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(969,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(969,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\DataProject\DataProject\game.h(1091,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  Generating code
+d:\dataproject\dataproject\source.cpp : fatal error C1301: error accessing program database x64\Release\DataProject.ipdb, invalid format, please delete and rebuild
+LINK : fatal error LNK1257: code generation failed
